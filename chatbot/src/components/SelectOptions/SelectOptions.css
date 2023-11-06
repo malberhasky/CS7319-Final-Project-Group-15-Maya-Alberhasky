@@ -1,13 +1,13 @@
 .select-options-container {
-    display: flex;
-    align-items: flex-start;
-    flex-wrap: wrap;
-  }
-  
-  .select-option-button {
-    padding: 0.5rem;
-    border-radius: 25px;
-    background: transparent;
-    border: 1px solid green;
-    margin: 3px;
-  }
+  display: block;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.select-option-button {
+  padding: 0.5rem;
+  border-radius: 25px;
+  background: #9ba0a9;
+  border: 1px solid green;
+  margin: 3px;
+}

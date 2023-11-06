@@ -92,7 +92,7 @@ const config = {
             id: 2,
           },
           {
-            text: "PetSmart Vet Service",
+            text: "PetSmart Vet Services",
             url: "https://www.petsmart.com/petsmart-veterinary-services.html",
             id: 3,
           },
